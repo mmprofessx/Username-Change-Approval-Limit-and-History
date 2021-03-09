@@ -2,7 +2,7 @@
 
 Username Change Approval, Limit and History (1.4) for MyBB 1.8
 Created by: Starpaul20
-Copyright: ©2012
+Copyright: Â©2012
 License: GPL
 
 Allows you to moderate username changes (set as a usergroup permission), limit username changes in a specific time period (also set as a usergroup permission), and log all username changes.
